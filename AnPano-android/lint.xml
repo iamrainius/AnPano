@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/autonavi/panorama/MainActivity.java" />
+        <ignore path="src/com/autonavi/panorama/sensor/SensorReader.java" />
+    </issue>
+</lint>
